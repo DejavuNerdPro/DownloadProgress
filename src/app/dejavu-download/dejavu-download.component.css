@@ -1,0 +1,14 @@
+mat-card {
+    display: flex;
+    flex-direction: column;
+  }
+
+  mat-progress-bar{
+    color:blue;
+  }
+  
+  .file {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
